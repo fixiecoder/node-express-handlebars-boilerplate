@@ -1,0 +1,23 @@
+{
+  "name": "nodejs-express-handlebars-boilerplate",
+  "version": "0.0.0",
+  "description": "NodeJS app using Hxpress framework and Handlebars templates",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": "https://github.com/fixiecoder/node-express-handlebars-boilerplate.git",
+  "author": "Colin Adams",
+  "license": "MIT",
+  "dependencies": {
+    "express": "4.10.6",
+    "express-handlebars": "^2.0.1",
+    "body-parser": "~1.12.4"
+  },
+  "devDependencies": {
+    "gulp": "^3.8.11",
+    "gulp-concat": "^2.5.2",
+    "gulp-sass": "^2.0.1",
+    "gulp-uglify": "^1.2.0"
+  }
+}
